@@ -157,6 +157,7 @@ body {
   cursor: pointer;
   color: #83cb48ff;
   transition: transform 0.5s ease;
+  position: fixed;
 }
 
 .content.active {
